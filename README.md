@@ -1,6 +1,11 @@
 # Feather Cases
 
 Compact cases for (most of) Adafruit's Feather series
+These cases are compatible with the following Feather boards:
+
+Adafruit Feather HUZZAH with ESP8266 WiFi: https://www.adafruit.com/product/2821
+
+Adafruit HUZZAH32 – ESP32 Feather Board: https://www.adafruit.com/product/3405
 
 ## Feather ESP8266
 
@@ -8,19 +13,19 @@ Compact cases for (most of) Adafruit's Feather series
 
 Select one of the following (with an .stl extension):
 
-**cover-feather-slotted**: Case cover with slots cut in the top for wire. The end slots can be used for fishing in wiring that has already been attached/soldered during prototyping.
+***cover-feather-slotted***: Case cover with slots cut in the top for wire. The end slots can be used for fishing in wiring that has already been attached/soldered during prototyping.
 
-**cover-feather-top-closed**: Fully covered/closed top.
+***cover-feather-top-closed***: Fully covered/closed top.
 
-**cover-feather-slotted-top-hold**: If your machine doesn't print the bottom cases' pins quite right, snap off the top portion and use this cover (it presses against the USB port and PCB antenna, so preferably use this as a last option).
+***cover-feather-slotted-top-hold***: If your machine doesn't print the bottom cases' pins quite right, snap off the top portion and use this cover (it presses against the USB port and PCB antenna, so preferably use this as a last option).
 
 ### Bottom Case
 
 Select one of the following (with an .stl extension):
 
-**feather-esp8266-bottom-closed**: Case with no cutouts for headers.
+***feather-esp8266-bottom-closed***: Case with no cutouts for headers.
 
-**feather-esp8266-bottom-slotted**: Case with cutouts on the bottom for headers.
+***feather-esp8266-bottom-slotted***: Case with cutouts on the bottom for headers.
 
 ## Feather ESP32
 
@@ -32,9 +37,9 @@ Select a cover from the ESP8266 section above.
 
 ### Bottom Case
 
-**esp32-feather-bottom**: This case has the rear pins cut in 'half' so that they fit, since the ESP32 Feather module covers part of the rear holes. Some rework may be needed post-print depending on filament/printer tolerances (or just snap them off and try the top-hold cover).
+***esp32-feather-bottom***: This case has the rear pins cut in 'half' so that they fit, since the ESP32 Feather module covers part of the rear holes. Some rework may be needed post-print depending on filament/printer tolerances (or just snap them off and try the top-hold cover).
 
-**esp32-feather-bottom-slotted**: An esp32 case with slots for headers going out the bottom.
+***esp32-feather-bottom-slotted***: An ESP32 case with slots for headers going out the bottom.
 
 ## Other Feathers
 
