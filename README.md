@@ -1,11 +1,15 @@
 # Feather Cases
 
 Compact cases for (most of) Adafruit's Feather series
-These cases are compatible with the following Feather boards:
+
+Cases in feather-esp8266-esp32/ are compatible with the following Feather boards:
 
 Adafruit Feather HUZZAH with ESP8266 WiFi: https://www.adafruit.com/product/2821
 
 Adafruit HUZZAH32 – ESP32 Feather Board: https://www.adafruit.com/product/3405
+
+For other boards, the feather-0.7-rear-spacing/ cases might work (0.7" center-to-center spacing on rear pins),
+but rear pin spacing can often differ between Feather boards. Check the schematics on learn.adafruit.com for your board.
 
 ## Feather ESP8266
 
